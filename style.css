@@ -23,6 +23,10 @@ a:hover{
     margin-top: 80px;
 }
 
+.header img{
+    width: 200px;
+}
+
 .menu{
     width: auto;
     text-align: center;
@@ -42,6 +46,7 @@ a:hover{
 .banner{
     width: 100%;
     text-align: center;
+   
 }
 
 .coluna{
@@ -49,6 +54,7 @@ a:hover{
     display: inline-block;
     vertical-align: middle;
 }
+
 
 .banner p{
     font-size: 40px;
@@ -65,7 +71,7 @@ a:hover{
 }
 
 .banner img{
-    width: 90%;
+    width: 100%;
 }
 
 .cardapio{
